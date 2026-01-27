@@ -36,7 +36,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented required features:
 
-<blockquote class="imgur-embed-pub" lang="en" data-id="a/cSinccg"  ><a href="//imgur.com/a/cSinccg">Creatorverse</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
+[Kooha-2026-01-26-15-46-18.webm](https://github.com/user-attachments/assets/0d37865f-291a-4bba-af0c-0fd8375c96e9)
 
 <!-- Replace this with whatever GIF tool you used! -->
 
