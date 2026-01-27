@@ -1,6 +1,7 @@
 import React from "react";
 import { useParams, useNavigate } from "react-router-dom";
 import { supabase } from "../client.js";
+import { Link } from "react-router-dom";
 
 export default function ViewCreator({ creators, onDeleteCreator }) {
   const { id } = useParams();
@@ -33,7 +34,9 @@ export default function ViewCreator({ creators, onDeleteCreator }) {
       <h2>{creator.name}</h2>
       <p>{creator.url}</p>
       <p>{creator.description}</p>
-      <button type="button">Edit</button>
+      <Link to={`/edit-creator/${creator.id}`} className="button-link">
+        Edit
+      </Link>
       <button type="button" onClick={handleDelete}>
         Delete
       </button>
