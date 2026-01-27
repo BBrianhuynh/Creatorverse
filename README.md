@@ -36,7 +36,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented required features:
 
-![Creatorverse](https://imgur.com/a/creatorverse-cSinccg)
+[Kooha-2026-01-26-15-46-18.webm](https://github.com/user-attachments/assets/c38bf8e8-d904-42b9-953f-279a510af6b4)
 
 <!-- Replace this with whatever GIF tool you used! -->
 
