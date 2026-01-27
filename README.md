@@ -35,8 +35,9 @@ The following **additional** features are implemented:
 ## Video Walkthrough
 
 Here's a walkthrough of implemented required features:
-
-![Creatorverse walkthrough](https://imgur.com/cSinccg.gif)
+<video width="100%" autoplay muted loop>
+  <source src="https://i.imgur.com/cSinccg.mp4" type="video/mp4">
+</video>
 
 <!-- Replace this with whatever GIF tool you used! -->
 
