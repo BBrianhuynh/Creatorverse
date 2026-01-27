@@ -36,7 +36,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented required features:
 
-[![Creatorverse walkthrough](https://imgur.com/cSinccg.gif)](https://imgur.com/a/cSinccg)
+![Creatorverse](https://imgur.com/a/creatorverse-cSinccg)
 
 <!-- Replace this with whatever GIF tool you used! -->
 
